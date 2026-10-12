@@ -1805,3 +1805,11 @@ Compiled and maintained from upstream [trimstray/the-book-of-secret-knowledge](h
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
